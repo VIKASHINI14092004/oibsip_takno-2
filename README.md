@@ -46,15 +46,6 @@ Model Tuning: Fine-tune hyperparameters of the RandomForestRegressor or experime
 External Factors: Incorporate external factors such as economic indicators, government policies, and global events to enhance the model's predictive capabilities.
 
 Deployment: Develop a user-friendly interface or integrate the model into a larger decision support system for practical deployment and use.
-# References:
-
-scikit-learn Documentation
-Pandas Documentation
-NumPy Documentation
-[Unemployment Dataset Source](data source link)
-This project report summarizes the development of a predictive model for estimating unemployment rates in India. The model serves as a valuable tool for understanding labor market dynamics and informing policy decisions aimed at mitigating unemployment challenges.
-
-
 
 
 
